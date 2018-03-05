@@ -1,5 +1,5 @@
 body{
-  font-family: Helvetica;
+  font-family: "helvetica";
   text-align: center;
 }
 h1 h2 h3{
@@ -9,7 +9,7 @@ a {
   font-size: 18px;
   color: white;
 }
-.image {
+.header {
   background:url(resources/images/the-flatiron-building.png)
   repeat-x;
 }
