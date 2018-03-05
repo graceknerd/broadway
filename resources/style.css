@@ -1,34 +1,35 @@
 body{
-  font-family: "helvetica";
+  font-family: helvetica;
   text-align: center;
 }
 h1 h2 h3{
   font-weight: bold;
 }
-a {
+a{
   font-size: 18px;
   color: white;
+  line-height: 1.9;
 }
-.header {
-  background:url(resources/images/the-flatiron-building.png)
-  repeat-x;
+header{
+  background-image:url("../resources/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
 
-.class1 h1{
+h1.class1 {
   font-size: 70px;
   color: white;
 }
-.class2 h2{
+h2.class2 {
   font-size: 32px;
 }
-.class3 h3{
+h3.class3{
   font-size: 23px;
 }
-.class4 h3{
+h3.class4{
   font-size: 23px;
   color: white;
 }
-h4 {
+p {
   font-size: 14px;
 }
 footer {
